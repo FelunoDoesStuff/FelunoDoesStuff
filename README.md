@@ -5,10 +5,10 @@
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: WIP
 
-- 📫 How to reach me:
-  @FelunoLP   on Twitter
-  @feluno     on YouTube
-  @feluno     on Discord (I don't accept random friend requests)
+- 📫 How to reach me: <br>
+  @FelunoLP   on Twitter <br>
+  @feluno     on YouTube <br>
+  @feluno     on Discord (I don't accept random friend requests) <br>
   @Feluno     on transportfever.net
 
 <!---
